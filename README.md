@@ -12,6 +12,7 @@ When a digital signal is on half of the time and off the other half of the time,
 When a digital signal spends more time in the on state than the off state, it has a duty cycle of >50%.
 When a digital signal spends more time in the off state than the on state, it has a duty cycle of <50%. 
 Here is a pictorial that illustrates these three scenarios:
+
 ![image](https://user-images.githubusercontent.com/71445509/165858092-9b5a2b0c-0636-45f5-8827-97598d009f93.png)
 
 This technology is very common in today's mobile phone OLED screens
